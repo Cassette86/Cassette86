@@ -1,11 +1,4 @@
-<style>
-    .profile-heading {
-        color: #c961e8;
-        text-align: center;
-    }
-</style>
-
-<h1 class="profile-heading">
+<h1 align="center" style="color: #c961e8;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcom+on+my+profile!+👋;+I'm+Cassie+Doguet!;" />
 </h1>
 
