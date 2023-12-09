@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #c961e8;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcom+on+my+profile!+👋;+I'm+Cassie+Doguet!;" />
+    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserra&weight=500&pause=1000&color=C961E8&center=true&random=false&width=435&lines=Welcome+on+my+profile!;My+name+is+Cassie+Doguet" />
 </h1>
 
 <!--
