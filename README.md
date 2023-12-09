@@ -1,6 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserra&weight=500&pause=1000&color=C961E8&center=true&random=false&width=435&lines=Welcome+on+my+profile!;My+name+is+Cassie+Doguet" alt="Typing SVG" /></a>
 </h1>
+
+
 
 <!--
 **Cassette86/Cassette86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
