@@ -23,8 +23,21 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=blender,unity,figma,linux,github,gitlab,discord,ps,pr,ai,id" /><br>
 </div>
-
 <br/>
+<hr/>
+
+
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Cassette86/Cassette86/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 <hr/>
 
 <!--
