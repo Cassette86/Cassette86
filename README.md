@@ -15,18 +15,23 @@
 <h2 align="center">⚒️ Languages I use ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=py,arduino,c,cs,cpp,mysql,r,react" /><br>
 </div>
 
 <br/>
 <hr/>
 
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+<hr/>
+ 
+<h2 align="center">💻 Software I use 💻</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=blender,unity,figma,linux,github,gitlab,discord" />
+    <img src="https://skillicons.dev/icons?i=ps,pr,ai,id" /><br>
+</div>
+
+<br/>
+<hr/>
 
 <!--
 **Cassette86/Cassette86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
