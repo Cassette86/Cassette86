@@ -18,11 +18,6 @@
     <img src="https://skillicons.dev/icons?i=py,arduino,c,cs,cpp,mysql,r,react" /><br>
 </div>
 
-<br/>
-<hr/>
-
-<hr/>
- 
 <h2 align="center">💻 Software I use 💻</h2>
 <br/>
 <div align="center">
