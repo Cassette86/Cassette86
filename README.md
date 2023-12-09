@@ -21,8 +21,7 @@
 <h2 align="center">💻 Software I use 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=blender,unity,figma,linux,github,gitlab,discord" />
-    <img src="https://skillicons.dev/icons?i=ps,pr,ai,id" /><br>
+    <img src="https://skillicons.dev/icons?i=blender,unity,figma,linux,github,gitlab,discord,ps,pr,ai,id" /><br>
 </div>
 
 <br/>
