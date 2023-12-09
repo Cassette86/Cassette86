@@ -1,5 +1,5 @@
-<h1 align="center" style="color: #c961e8;">
-    <img src="https://readmetypingsvg.herokuapp.comfont=Montserra&weight=500&pause=1000&color=C961E8&center=true&random=false&width=435&lines=Welcome+on+my+profile!;My+name+is+Cassie+Doguet" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
 
 <!--
