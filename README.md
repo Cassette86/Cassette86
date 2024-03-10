@@ -18,13 +18,13 @@
 <h2 align="center">⚒️ Languages I use ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,arduino,c,cs,cpp,mysql,r,react" /><br>
+    <img src="https://skillicons.dev/icons?i=py,pytorch,arduino,c,cs,cpp,mysql,postgres,r,react,threejs,cassandra,css,docker,mongodb" /><br>
 </div>
 
 <h2 align="center">💻 Software I use 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=blender,unity,figma,linux,github,gitlab,discord,ps,pr,ai,id" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,blender,unity,figma,linux,github,gitlab,discord,ps,pr,ai,id,notion" /><br>
 </div>
 <br/>
 <hr/>
